@@ -11,7 +11,7 @@
 ![R2](https://user-images.githubusercontent.com/116187123/204667916-0d61e1fd-552f-474f-a4db-9f0b228db8c5.png)
 
 ### *Loops through all rows* 
-*unsure about if statements* For the if statements, I referenced the original script if statements as provided in Module 2 in regard to after "Then" in If/Then
+*unsure about if statements* For the if statements, I referenced the original script if statements as provided in Module 2 in regard to If/Then
                              
 
 ![Screenshot (814)](https://user-images.githubusercontent.com/116187123/204673515-e9404769-cd4c-402f-9e5b-098f8c2b3302.png)
